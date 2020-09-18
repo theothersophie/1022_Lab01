@@ -1,3 +1,5 @@
+// Student Name: Sophia Nguyen
+// This lab was was done individually
 package ca.yorku.a1022_lab01;
 
 import androidx.appcompat.app.AppCompatActivity;
